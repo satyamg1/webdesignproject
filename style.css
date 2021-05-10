@@ -1,0 +1,42 @@
+*{
+    font-family: Roboto,sans-serif;
+}
+
+.colors{
+    border: 2px solid grey;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.blue{
+    display: inline-block;
+    text-align: center;
+    height: 100%;
+    width: 150px;
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.pink{
+    display: inline-block;
+    text-align: center;
+    height: 100%;
+    width: 150px;
+    background-color: #d957d9;
+}
+
+.green{
+    display: inline-block;
+    text-align: center;
+    height: 100%;
+    width: 150px;
+    background-color: #4fe0b0;
+}
+
+.beige{
+    display: inline-block;
+    text-align: center;
+    height: 100%;
+    width: 150px;
+    background-color: #efd9ca;
+}
